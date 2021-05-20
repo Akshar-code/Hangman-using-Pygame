@@ -6,6 +6,8 @@ Steps to run locally:
 2. Use Python 3.7 with the specified Pygame version
 3. Run Main.py
 
+The demonstration link:
+https://twitter.com/kottuvada/status/1290242915927601154
 
 Credits:
 
